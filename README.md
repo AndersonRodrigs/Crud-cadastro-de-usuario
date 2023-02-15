@@ -19,3 +19,17 @@ O que eu aprendi nesse projeto:
 - Vite
 - Axios
 - Bootstrap
+
+## Instalação
+
+1. Clone o repositório
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Instalar pacotes NPM <br/>
+Dentro de cada pasta do projeto rode o comando:
+   ```sh
+   npm install
+   ```
+3. Rodando o projeto <br/>
+Dentro da pasta Front end
