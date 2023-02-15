@@ -9,7 +9,7 @@ Crud(Create (criar), Read (ler), Update (atualizar), Delete (apagar)): foi um pr
 O que eu aprendi nesse projeto: 
 - Criar um backend “fake” com o JSON-Server para testarmos uma aplicação frontend.
 - Manipular os estados de um componente.
-- Criação de rotas com o react-routes para a navegação dendro da página.
+- Criação de rotas com o react-router para a navegação dendro da página.
 - Estilização usando o bootstrap no React.js 
 - Fazer requisições para o backend usando o Axios.  
 
