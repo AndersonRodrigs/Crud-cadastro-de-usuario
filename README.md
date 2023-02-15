@@ -32,4 +32,11 @@ Dentro de cada pasta do projeto rode o comando:
    npm install
    ```
 3. Rodando o projeto <br/>
-Dentro da pasta Front end
+   Dentro da pasta Frontend rode o comando:
+   ```sh
+   npm run dev
+   ```
+   Dentro da pasta Backend rode o comando:
+   ```sh
+   npm start
+   ```
