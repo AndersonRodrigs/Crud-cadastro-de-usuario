@@ -24,7 +24,7 @@ O que eu aprendi nesse projeto:
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/AndersonRodrigs/Crud-cadastro-de-usuario.git
    ```
 2. Instalar pacotes NPM <br/>
 Dentro das pastas FrontEnd e Backend rode o comando:
