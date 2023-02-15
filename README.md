@@ -27,7 +27,7 @@ O que eu aprendi nesse projeto:
    git clone https://github.com/your_username_/Project-Name.git
    ```
 2. Instalar pacotes NPM <br/>
-Dentro de cada pasta do projeto rode o comando:
+Dentro das pastas FrontEnd e Backend rode o comando:
    ```sh
    npm install
    ```
